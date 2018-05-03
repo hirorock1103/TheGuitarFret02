@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The bottom layer is blue square.-->
+    <item>
+        <shape>
+            <solid android:color="#f1e394" />
+            <size android:height="35dp"
+                android:width="69dp" />
+            <stroke android:width="1px" android:color="#161616"/>
+        </shape>
+    </item>
+</layer-list>
